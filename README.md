@@ -1,1 +1,1 @@
-calc.py is a basic investment calculator including  compounded rates and contributions, besides the future value, it returns a line chart and a table with the updated values across the entire investment period
+calc.py is a basic investment calculator including  compounded rates and contributions, besides the future value, it returns a line chart and a table with the updated values across the entire investment period, also allows two scenario comparison, retirement phase and Monte Carlo simulation
