@@ -5,12 +5,12 @@ import matplotlib.pyplot as plt
 from io import BytesIO
 
 st.set_page_config(
-    page_title="Investment Growth Simulator Pro",
+    page_title="Investment Growth Simulator",
     page_icon="📈",
     layout="wide"
 )
 
-st.title("📈 Investment Growth Simulator Pro")
+st.title("📈 Investment Growth Simulator")
 st.caption("Compound interest calculator with contributions, inflation and scenario comparison")
 
 # ---------------- SIDEBAR ----------------
@@ -297,3 +297,4 @@ st.download_button(
 
 st.markdown("## 📋 Detailed Results")
 st.dataframe(df_a)
+
